@@ -1,3 +1,8 @@
+/**
+ * Lab-01
+ * Drawing a straight line
+ */
+
 #include<GL/gl.h>
 #include<GL/glu.h>
 #include<GL/glut.h>
@@ -12,6 +17,7 @@ glBegin(GL_LINES);
     glVertex2i(5,5);
     glVertex2i(15,10);
 glEnd();
+
 //display the content of frame buffer
 glFlush();
 }
@@ -23,6 +29,7 @@ void init(){
         glClearColor(0.39f, 0.19f, 0.0f, 0.0f);
         glMatrixMode(GL_MODELVIEW);
     }
+
 int main(int argc, char** argv){
     glutInit(&argc, argv);
     glutInitDisplayMode(GLUT_RGB);
@@ -33,5 +40,6 @@ int main(int argc, char** argv){
     glutDisplayFunc(display);
     init();
     glutMainLoop();
+
     return 0;
 }
