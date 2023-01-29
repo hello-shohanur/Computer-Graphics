@@ -1,6 +1,8 @@
 /**
  * Lab-01
  * Drawing a straight line
+ * Author: @shohan
+ * GitHub: https://github.com/shohan-cse/Computer-Graphics
  */
 
 #include<GL/gl.h>
