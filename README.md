@@ -1,5 +1,5 @@
 # Computer Graphics Lab 
-Assalamu Alaikum (السلام عليكم). In this repository, I showcase all the Computer Graphics lab projects that have already been done in lab class. All the project is coded with c++. For 2D and 3D graphics, use OpenGL libraries to make UI animations more responsive or handle embedded video or draw vector graphics.
+Assalamu Alaikum (السلام عليكم). This repository contains all of the Computer Graphics lab projects that have already been completed in lab class. The entire project is written in C++. Use OpenGL libraries to make UI animations more responsive, manage embedded videos, and render vector graphics in 2D and 3D visuals.
 
 # Input & Output
 I used Codeblocks for completing all the projects. Download the Codeblocks and the OpenGL libraries setup files from the above Installation folder.
