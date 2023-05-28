@@ -23,7 +23,7 @@ open the 'C' drive, then open the 'Program Files(x86)' folder, then open the 'Co
 ## If you like my repository 
 Don't forget to (Follow) and press the (Star) button. If you want to save this repository in your profile, then click on the (Fork) button from the top right side.
 
-## visit other repository with below link:
+## Visit other repository with below link:
 https://github.com/shohan-cse?tab=repositories
 
 
