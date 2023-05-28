@@ -6,7 +6,7 @@ I used Codeblocks for completing all the projects. Download the Codeblocks and t
 
 ## Using system: 
 1. Download the repository as a zip file then extract it.
-2. Open the Installation folder and install the Codeblocks by clicking on the 'exe' file (Version: 10.05). 
+2. Open the Installation folder and install the Codeblocks by clicking on the 'exe' file (Version: 17.12). 
 3. Extract the 'glut-3.7.6-bin.rar' file and open it. 
 4. Now copy the 'glut32.dll' file and paste it to:
 open the 'C' drive, then open the 'Windows' folder, then open the 'SysWOW64' folder, now paste it here. (For 64-bit windows)
